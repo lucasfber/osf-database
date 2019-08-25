@@ -13,12 +13,6 @@
       "type": 2
     },
     {
-      "name": "Activate Facial Mask and Charcoal Soap",
-      "price": 129.55,
-      "imageUrl": "img/product-3.png",
-      "type": 1
-    },
-    {
       "name": "Cocktail Table Walnut | YES",
       "price": 299.99,
       "imageUrl": "img/product-4.png",
@@ -33,8 +27,8 @@
     {
       "name": "TORY DESK CALENDAR",
       "price": 410.99,
-      "imageUrl": "img/product-6.png",
-      "type": 1
+      "imageUrl": "img/prod-not-found.png",
+      "type": 4
     },
     {
       "name": "CH445 Wing Chair on SUITE NY",
@@ -45,6 +39,12 @@
     {
       "imageUrl": "img/product-8.png",
       "type": 3
+    },
+    {
+      "name": "CH445 Wing Chair on SUITE NY",
+      "price": 330.55,
+      "imageUrl": "img/prod-not-found.png",
+      "type": 4
     }
   ]
 }
